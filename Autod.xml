@@ -1,0 +1,302 @@
+<autod>
+  <auto mark="Lincoln">
+    <registreerinumber>545 HXS</registreerinumber>
+    <mark>Lincoln</mark>
+    <vaasta>1998</vaasta>
+    <omanik>Mudo</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registreerinumber>655 ASM</registreerinumber>
+    <mark>Mazda</mark>
+    <vaasta>1987</vaasta>
+    <omanik>Oyondu</omanik>
+  </auto>
+  <auto mark="Plymouth">
+    <registreerinumber>185 LJC</registreerinumber>
+    <mark>Plymouth</mark>
+    <vaasta>1978</vaasta>
+    <omanik>Ooba</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registreerinumber>861 FEN</registreerinumber>
+    <mark>Buick</mark>
+    <vaasta>1992</vaasta>
+    <omanik>Jazzy</omanik>
+  </auto>
+  <auto mark="Ram">
+    <registreerinumber>878 ITE</registreerinumber>
+    <mark>Ram</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Zoomzone</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registreerinumber>229 MLM</registreerinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2006</vaasta>
+    <omanik>Riffpedia</omanik>
+  </auto>
+  <auto mark="Nissan">
+    <registreerinumber>074 HEE</registreerinumber>
+    <mark>Nissan</mark>
+    <vaasta>2013</vaasta>
+    <omanik>Feednation</omanik>
+  </auto>
+  <auto mark="Volkswagen">
+    <registreerinumber>106 KEX</registreerinumber>
+    <mark>Volkswagen</mark>
+    <vaasta>1994</vaasta>
+    <omanik>Skidoo</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registreerinumber>183 HJC</registreerinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2013</vaasta>
+    <omanik>Wikivu</omanik>
+  </auto>
+  <auto mark="Cadillac">
+    <registreerinumber>925 MTD</registreerinumber>
+    <mark>Cadillac</mark>
+    <vaasta>2002</vaasta>
+    <omanik>Yotz</omanik>
+  </auto>
+  <auto mark="Scion">
+    <registreerinumber>678 KAM</registreerinumber>
+    <mark>Scion</mark>
+    <vaasta>2006</vaasta>
+    <omanik>Zoombeat</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registreerinumber>497 EGQ</registreerinumber>
+    <mark>Pontiac</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Meejo</omanik>
+  </auto>
+  <auto mark="Honda">
+    <registreerinumber>913 OVA</registreerinumber>
+    <mark>Honda</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Fiveclub</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registreerinumber>256 TVF</registreerinumber>
+    <mark>Pontiac</mark>
+    <vaasta>1998</vaasta>
+    <omanik>Eire</omanik>
+  </auto>
+  <auto mark="Jeep">
+    <registreerinumber>450 IGY</registreerinumber>
+    <mark>Jeep</mark>
+    <vaasta>2007</vaasta>
+    <omanik>Edgeify</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registreerinumber>557 JEE</registreerinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>1992</vaasta>
+    <omanik>Blogtag</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registreerinumber>656 OAA</registreerinumber>
+    <mark>Dodge</mark>
+    <vaasta>1994</vaasta>
+    <omanik>Agimba</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registreerinumber>170 LKD</registreerinumber>
+    <mark>Toyota</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Demizz</omanik>
+  </auto>
+  <auto mark="Jaguar">
+    <registreerinumber>292 WWN</registreerinumber>
+    <mark>Jaguar</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Jazzy</omanik>
+  </auto>
+  <auto mark="Jaguar">
+    <registreerinumber>099 QXI</registreerinumber>
+    <mark>Jaguar</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Talane</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registreerinumber>913 WAO</registreerinumber>
+    <mark>Dodge</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Linktype</omanik>
+  </auto>
+  <auto mark="Mercury">
+    <registreerinumber>197 LJZ</registreerinumber>
+    <mark>Mercury</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Bluezoom</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registreerinumber>223 GZX</registreerinumber>
+    <mark>Mazda</mark>
+    <vaasta>1997</vaasta>
+    <omanik>Layo</omanik>
+  </auto>
+  <auto mark="Plymouth">
+    <registreerinumber>102 OEF</registreerinumber>
+    <mark>Plymouth</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Agimba</omanik>
+  </auto>
+  <auto mark="Chrysler">
+    <registreerinumber>628 DWM</registreerinumber>
+    <mark>Chrysler</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Plambee</omanik>
+  </auto>
+  <auto mark="Spyker">
+    <registreerinumber>879 DOD</registreerinumber>
+    <mark>Spyker</mark>
+    <vaasta>2004</vaasta>
+    <omanik>Feednation</omanik>
+  </auto>
+  <auto mark="Mitsubishi">
+    <registreerinumber>717 ZBT</registreerinumber>
+    <mark>Mitsubishi</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Skiptube</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registreerinumber>374 QDE</registreerinumber>
+    <mark>Toyota</mark>
+    <vaasta>2003</vaasta>
+    <omanik>Dynabox</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registreerinumber>700 VTF</registreerinumber>
+    <mark>GMC</mark>
+    <vaasta>1999</vaasta>
+    <omanik>Wordpedia</omanik>
+  </auto>
+  <auto mark="Acura">
+    <registreerinumber>056 ZIT</registreerinumber>
+    <mark>Acura</mark>
+    <vaasta>2002</vaasta>
+    <omanik>Edgeify</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registreerinumber>009 BBO</registreerinumber>
+    <mark>Ford</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Skynoodle</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registreerinumber>137 GUA</registreerinumber>
+    <mark>Mazda</mark>
+    <vaasta>1995</vaasta>
+    <omanik>Buzzdog</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registreerinumber>454 DUV</registreerinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>2009</vaasta>
+    <omanik>Zoomdog</omanik>
+  </auto>
+  <auto mark="BMW">
+    <registreerinumber>016 RMU</registreerinumber>
+    <mark>BMW</mark>
+    <vaasta>1992</vaasta>
+    <omanik>Linktype</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registreerinumber>513 PJN</registreerinumber>
+    <mark>Toyota</mark>
+    <vaasta>1997</vaasta>
+    <omanik>Quinu</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registreerinumber>875 NOG</registreerinumber>
+    <mark>Pontiac</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Cogilith</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registreerinumber>486 LMH</registreerinumber>
+    <mark>Buick</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Topicware</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registreerinumber>493 UHI</registreerinumber>
+    <mark>Ford</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Browsedrive</omanik>
+  </auto>
+  <auto mark="Infiniti">
+    <registreerinumber>262 WXD</registreerinumber>
+    <mark>Infiniti</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Skyba</omanik>
+  </auto>
+  <auto mark="Volkswagen">
+    <registreerinumber>365 ZKG</registreerinumber>
+    <mark>Volkswagen</mark>
+    <vaasta>2001</vaasta>
+    <omanik>Dynabox</omanik>
+  </auto>
+  <auto mark="Saab">
+    <registreerinumber>309 DKR</registreerinumber>
+    <mark>Saab</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Trilith</omanik>
+  </auto>
+  <auto mark="Subaru">
+    <registreerinumber>566 GPY</registreerinumber>
+    <mark>Subaru</mark>
+    <vaasta>1998</vaasta>
+    <omanik>Jazzy</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registreerinumber>454 IGL</registreerinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Realmix</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registreerinumber>621 TUK</registreerinumber>
+    <mark>Ford</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Yotz</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registreerinumber>485 TRS</registreerinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>1996</vaasta>
+    <omanik>Skinder</omanik>
+  </auto>
+  <auto mark="Suzuki">
+    <registreerinumber>459 UES</registreerinumber>
+    <mark>Suzuki</mark>
+    <vaasta>2007</vaasta>
+    <omanik>Livetube</omanik>
+  </auto>
+  <auto mark="Lexus">
+    <registreerinumber>818 KBS</registreerinumber>
+    <mark>Lexus</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Brainverse</omanik>
+  </auto>
+  <auto mark="Jeep">
+    <registreerinumber>010 VIU</registreerinumber>
+    <mark>Jeep</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Twinder</omanik>
+  </auto>
+  <auto mark="Saab">
+    <registreerinumber>770 LKV</registreerinumber>
+    <mark>Saab</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Browsebug</omanik>
+  </auto>
+  <auto mark="Nissan">
+    <registreerinumber>334 CKV</registreerinumber>
+    <mark>Nissan</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Livefish</omanik>
+  </auto>
+</autod>
